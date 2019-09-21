@@ -1,6 +1,6 @@
-# taps Tap
+# taps
 
-homebrew-taps is a [Homebrew](http://brew.sh) tap for my personal projects.
+This repo is a [Homebrew](http://brew.sh) tap for my personal projects.
 
 ## Install
 
